@@ -1,0 +1,11 @@
+C:\Users\singcl.000\Desktop\Csharp\bin\Debug\netcoreapp2.1\Csharp.deps.json
+C:\Users\singcl.000\Desktop\Csharp\bin\Debug\netcoreapp2.1\Csharp.runtimeconfig.json
+C:\Users\singcl.000\Desktop\Csharp\bin\Debug\netcoreapp2.1\Csharp.runtimeconfig.dev.json
+C:\Users\singcl.000\Desktop\Csharp\bin\Debug\netcoreapp2.1\Csharp.dll
+C:\Users\singcl.000\Desktop\Csharp\bin\Debug\netcoreapp2.1\Csharp.pdb
+C:\Users\singcl.000\Desktop\Csharp\obj\Debug\netcoreapp2.1\Csharp.csprojAssemblyReference.cache
+C:\Users\singcl.000\Desktop\Csharp\obj\Debug\netcoreapp2.1\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\singcl.000\Desktop\Csharp\obj\Debug\netcoreapp2.1\Csharp.AssemblyInfoInputs.cache
+C:\Users\singcl.000\Desktop\Csharp\obj\Debug\netcoreapp2.1\Csharp.AssemblyInfo.cs
+C:\Users\singcl.000\Desktop\Csharp\obj\Debug\netcoreapp2.1\Csharp.dll
+C:\Users\singcl.000\Desktop\Csharp\obj\Debug\netcoreapp2.1\Csharp.pdb
